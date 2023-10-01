@@ -40,14 +40,38 @@
 }
 
 #dis-none {
-  width: auto;
   height: 42px;
   grid-column-gap: 24px;
   align-items: center;
   display: flex;
 }
+@media (min-width: 320px) {
+  #dis-none {
+    width: 320px;
+  }
+}
 
-#div-none {
+@media (min-width: 481px) {
+  #dis-none {
+    width: 481px;
+  }
+}
+
+@media (min-width: 769px) {
+  #dis-none {
+    width: 769px;
+  }
+}
+@media (min-width: 1025px) {
+  #dis-none {
+    width: 1025px;
+  }
+}
+
+@media (min-width: 1201px) {
+  #dis-none {
+    width: 1201px;
+  }
 }
 
 @media (min-width: 483px) {
