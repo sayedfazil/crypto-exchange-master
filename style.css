@@ -32,7 +32,7 @@
   padding: 8px;
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #31ec88;
+  background-color: #55efc4;
   margin-top: 3.5rem;
   border-radius: 1.5rem;
   width: 600px;
@@ -45,6 +45,9 @@
   grid-column-gap: 24px;
   align-items: center;
   display: flex;
+}
+
+#div-none {
 }
 
 @media (min-width: 483px) {
