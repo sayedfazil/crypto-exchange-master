@@ -27,16 +27,12 @@
   background-color: #1be770;
 }
 
-.api-card-api-card-white-w-inline-block {
-  background-color: white;
-}
-
 #new {
   display: flex;
   padding: 8px;
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #039e4b;
+  background-color: #31ec88;
   margin-top: 3.5rem;
   border-radius: 1.5rem;
   width: 600px;
@@ -72,5 +68,29 @@
 @media (min-width: 1024px) {
   #div-none {
     display: block;
+  }
+}
+
+@media (min-width: 483px) {
+  #background {
+    background-color: #31ec88;
+  }
+}
+
+@media (min-width: 640px) {
+  #background {
+    background-color: #31ec88;
+  }
+}
+
+@media (min-width: 768px) {
+  #background {
+    background-color: #31ec88;
+  }
+}
+
+@media (min-width: 1024px) {
+  #background {
+    background-color: #31ec88;
   }
 }
