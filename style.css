@@ -74,6 +74,35 @@
   }
 }
 
+@media (min-width: 320px) {
+  #DIS-none {
+    width: 320px;
+  }
+}
+
+@media (min-width: 481px) {
+  #DIS-none {
+    width: 481px;
+  }
+}
+
+@media (min-width: 769px) {
+  #DIS-none {
+    width: 769px;
+  }
+}
+@media (min-width: 1025px) {
+  #DIS-none {
+    width: 1025px;
+  }
+}
+
+@media (min-width: 1201px) {
+  #DIS-none {
+    width: 1201px;
+  }
+}
+
 @media (min-width: 483px) {
   #div-none {
     display: none;
