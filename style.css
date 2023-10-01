@@ -43,6 +43,14 @@
   height: 250px;
 }
 
+#dis-none {
+  width: auto;
+  height: 42px;
+  grid-column-gap: 24px;
+  align-items: center;
+  display: flex;
+}
+
 @media (min-width: 483px) {
   #div-none {
     display: none;
