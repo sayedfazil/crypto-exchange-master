@@ -1,15 +1,68 @@
 #blackbox {
-  background-color: #5cffa0;
+  background-color: #2ecc71;
 }
 
 #blackbox:hover {
-  background-color: #12bd59;
+  background-color: #2ecc71;
 }
 
-#black-box {
-  background-color: #5cffa0;
+#btn-contact {
+  background-color: #00a043;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  color: white;
 }
 
-#black-box:hover {
-  background-color: #12bd59;
+#btn-contact:hover {
+  background-color: #03883a;
+}
+
+#btn-buy {
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  background-color: #1dd66a;
+}
+
+#btn-buy:hover {
+  background-color: #1be770;
+}
+
+.api-card-api-card-white-w-inline-block {
+  background-color: white;
+}
+
+#new {
+  display: flex;
+  padding: 8px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #039e4b;
+  margin-top: 3.5rem;
+  border-radius: 1.5rem;
+  width: 600px;
+  height: 250px;
+}
+
+@media (min-width: 483px) {
+  #div-none {
+    display: none;
+  }
+}
+
+@media (min-width: 640px) {
+  #div-none {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  #div-none {
+    display: none;
+  }
+}
+
+@media (min-width: 1024px) {
+  #div-none {
+    display: block;
+  }
 }
